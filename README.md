@@ -2,6 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JavDomGom/Identity-Based-Encryption)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 ## Basic overview
 
@@ -183,3 +184,17 @@ be4uRMtW2C5YYDkvxO/ZkLCFwaIG3/0qSnwfz8fIuL8nvGAhUPBbgWbtK3qTsif5
 CCvahuWrUH2WHGMPvQIDAQAB
 -----END PUBLIC KEY-----
 ```
+
+## How to run
+
+```bash
+~$ python3 main.py
+```
+
+## References and documents
+
+* https://en.wikipedia.org/wiki/Identity-based_encryption
+* https://github.com/cgshep/pycocks
+* https://en.wikipedia.org/wiki/JSON_Web_Token
+* [Using Attribute-Based Encryption on IoT Devices
+with instant Key Revocation](https://core.ac.uk/download/pdf/195320109.pdf)
